@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --ignore-certificate-errors --allow-file-access --allow-legacy-extension-manifests --disable-extensions-file-access-check --disk-cache-size=10000 --enable-website-settings --omnibox-history-quick-provider-new-scoring=1 --omnibox-history-quick-provider-reorder-for-inlining=1 --restore-last-session --window-position=0,0 --enable-easy-off-store-extension-install --disable-prompt-on-repost
