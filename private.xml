@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<root>
+    <item>
+      <name>Google Chrome</name>
+      <item>
+        <name>Disable Ctrl + Scroll</name>
+        <identifier>remap.app_google_chrome_disable_ctrl_scroll</identifier>
+        <autogen>__StripModifierFromScrollWheel__ VK_CONTROL</autogen>
+      </item>
+    </item>
+</root>
