@@ -1,3 +1,4 @@
 Screensaver.scpt -- Used to start the Mac's screensaver. It's an easily modifiable applescript.
 switches.sh      -- Used to start Chrome with several of my preferred flags, mainly for Mac.
 private.xml      -- Disable Ctrl + Scroll in Google Chrome - Used in KeyRemap4MacBook.
+media.conf       -- Show directory listing for /var/www/media - Apache Config
